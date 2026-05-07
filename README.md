@@ -15,6 +15,19 @@ Las clases en JavaScript son una forma de definir objetos con estado y comportam
 
 Los tests de este repositorio recorren precisamente esa progresión: primero una clase `Animal` con constructor, después valores por defecto, luego métodos de instancia y estáticos, más tarde herencia con `Dog`, y finalmente acceso a propiedades mediante getter y setter.
 
+## Agente del repositorio
+
+Este repositorio incluye un agente de apoyo llamado `Guía de clases JavaScript`. Su objetivo no es resolver los ejercicios por ti, sino ayudarte a pensar el siguiente paso con preguntas, pistas y comprobaciones pequeñas.
+
+Cuando lo uses, ten en cuenta esta idea:
+
+- Expón el test o el error que estás intentando resolver.
+- Pide una pista concreta, no la solución completa.
+- Usa la respuesta para razonar el cambio antes de escribir código.
+- Vuelve a ejecutar el test para verificar si el razonamiento era correcto.
+
+La IA aquí funciona mejor como acompañamiento: te ayuda a romper el problema en pasos pequeños, a identificar qué concepto de clases toca en cada ejercicio y a revisar si tu enfoque tiene sentido.
+
 ## Guía de trabajo
 
 ### 1. Clonar el repositorio
